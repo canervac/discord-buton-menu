@@ -21,7 +21,7 @@ Umarım işinize yarar. **[Herhangi Bir Sorunda Discord 'dan Ulaş schâwn ✩#2
 
 
 
-# Kurulum Moderasyon:
+# Ayarlar:
 ```sh
 npm install => Gerekli Bütün Modülleri Yükler.
 ```
